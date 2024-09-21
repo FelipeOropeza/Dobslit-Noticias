@@ -1,0 +1,25 @@
+.reporters-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.reporters-card {
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  display: flex;
+}
+
+.reporters-card:hover {
+  text-decoration: underline;
+  color: var(--acent);
+}
+
+.reporters-card img {
+  border-radius: 100%;
+  margin-bottom: 10px;
+  max-width: 15vw;
+}

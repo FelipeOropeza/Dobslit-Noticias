@@ -1,0 +1,30 @@
+.home-curiosidades-card {
+  /* change latter */
+  width: 30%;
+  background-color: var(--acent);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.home-curiosidades {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-direction: row;
+  /* padding: 10px; */
+}
+.home-curiosidades-cardzao {
+  display: flex;
+  border-radius: 10px;
+  flex-direction: row;
+  align-items: center;
+  background-color: var(--acent);
+  padding: 18px;
+}
+.home-curiosidades-cardzao img {
+  border-radius: 10px;
+}
+
+.home-curiosidades-cardzao p {
+  padding: 4rem;
+}
