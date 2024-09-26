@@ -4,7 +4,7 @@
 }
 
 .hero img {
-  border-radius: 5%;
+  /* border-radius: 5%; */
 }
 
 .hero div {
@@ -29,4 +29,23 @@
   border-radius: 6px;
   color: black;
   padding: 6px;
+}
+
+@media (max-width: 800px) {
+  .hero {
+    flex-direction: column;
+  }
+  .hero h1 {
+    text-align: center;
+  }
+  .hero p {
+    max-width: 100%;
+    text-align: justify;
+  }
+  .hero div {
+    align-items: center;
+  }
+  .hero a {
+    display: flex;
+  }
 }
