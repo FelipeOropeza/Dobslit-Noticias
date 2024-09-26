@@ -1,0 +1,11 @@
+.nossas-noticias {
+  display: flex;
+  flex-direction: row;
+}
+.ovlerlay-card {
+  background-color: #0000004f;
+  color: white;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+}

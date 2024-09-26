@@ -7,7 +7,7 @@
 
 Este site foi criado para a disciplina de Microinformática do curso de Análise e Desenvolvimento de Sistemas (ADS) da FATEC Carapicuíba. O objetivo desse projeto foi criar um site de noticias sobre computação quantica, escolhendo uma empresa para fazer uma reportagem, o grupo escolheu a [Dobslit](https://dobslit.com/), empresa brasileira, O site pode ser acessada através do [LINK](https://felipeoropeza.github.io/Dobslit-Noticias/).
 
-# Tech used
+## Tech used
 
 For request of our teacher this projec was made with pure HTML and CSS
 

@@ -12,10 +12,6 @@ body {
 }
 /* coda extrabold */
 
-footer {
-  background-color: var(--acent);
-}
-
 .home-title {
   font-family: "Dosis";
   font-weight: 500;
@@ -34,7 +30,9 @@ iframe {
   width: 100%;
 }
 main {
-  padding: 0px 20px;
+  padding: 0px 40px;
+  margin-top: 30px;
+  padding-bottom: 0px;
 }
 
 h2 {
@@ -43,19 +41,12 @@ h2 {
   color: var(--color-terciary);
 }
 
-nav .home-icon img {
-  margin-right: 10px;
-}
-
-nav a {
-  color: black;
+.btn-1 {
   text-decoration: none;
-  text-transform: uppercase;
-  margin-right: 20px;
-}
-
-nav a:hover {
-  text-decoration: underline;
+  background-color: lightblue;
+  border-radius: 6px;
+  color: black;
+  padding: 6px;
 }
 
 .header {

@@ -1,8 +1,12 @@
 nav {
   border-bottom: 1px solid black;
   flex-direction: row;
+  position: sticky;
+  top: 0;
+  right: 0;
+  background-color: white;
   display: flex;
-  padding: 2px;
+  padding: 10px 20px;
   align-items: center;
   font-family: "Coda";
   justify-content: space-between;
