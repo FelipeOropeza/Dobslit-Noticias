@@ -26,11 +26,6 @@
   font-size: 2rem;
 }
 
-.card-noticias .descricao {
-}
-.card-noticias .data {
-  font-weight: 500;
-}
 @media (max-width: 800px) {
   .nossas-noticias {
     grid-template-columns: repeat(2, 1fr); /* 2 colunas em telas médias */

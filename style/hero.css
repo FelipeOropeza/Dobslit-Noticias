@@ -26,9 +26,19 @@
 .hero a {
   text-decoration: none;
   background-color: lightblue;
-  border-radius: 6px;
   color: black;
-  padding: 6px;
+  padding: 10px;
+}
+.hero a {
+  text-decoration: none;
+  background-color: var(--color-terciary);
+  color: white;
+  padding: 10px;
+}
+.hero a:hover {
+  text-decoration: underline;
+  background-color: var(--acent);
+  color: black;
 }
 
 @media (max-width: 800px) {
