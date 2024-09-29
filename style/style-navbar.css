@@ -34,3 +34,15 @@ nav a {
 nav a:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 800px) {
+  nav {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 500px) {
+  nav a {
+    font-size: 12px;
+  }
+}
