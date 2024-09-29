@@ -1,4 +1,21 @@
 footer {
   background-color: var(--acent);
-  padding: 10px 10px;
+
+  padding: 10px 20px;
+  font-size: 12px;
+  margin-top: 16px;
+}
+
+footer .footer-1-section {
+  display: flex;
+  align-items: center;
+}
+
+footer a {
+  margin-left: 6px;
+}
+
+footer hr {
+  border-width: 1px;
+  margin: 16px 0px;
 }

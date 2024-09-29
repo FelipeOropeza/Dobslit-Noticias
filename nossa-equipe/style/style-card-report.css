@@ -1,0 +1,30 @@
+.card-1 {
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+.card-1 h1 {
+  text-align: right;
+  font-family: "Dosis";
+  font-weight: 500;
+  margin-top: 0px;
+}
+
+.card-1 div {
+  text-align: right;
+}
+.card-2 {
+  display: flex;
+  flex-direction: row-reverse;
+  text-align: left;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+.card-2 h1 {
+  text-align: left;
+  font-family: "Dosis";
+  margin-top: 0px;
+  font-weight: 500;
+}

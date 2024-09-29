@@ -1,0 +1,17 @@
+:root {
+  --acent: #d9d9d9;
+  --color-terciary: #508c9b;
+  font-family: Coda;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+main {
+  padding: 0px 40px;
+  margin-top: 60px;
+}
