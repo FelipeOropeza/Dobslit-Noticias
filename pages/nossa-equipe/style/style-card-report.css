@@ -6,6 +6,8 @@
   margin-bottom: 40px;
 }
 .card-1 h1 {
+  display: flex;
+  justify-content: end;
   text-align: right;
   font-family: "Dosis";
   font-weight: 500;
@@ -17,6 +19,8 @@
 }
 .card-2 {
   display: flex;
+  justify-content: end;
+  display: flex;
   flex-direction: row-reverse;
   text-align: left;
   justify-content: space-between;
@@ -27,4 +31,16 @@
   font-family: "Dosis";
   margin-top: 0px;
   font-weight: 500;
+}
+
+@media (max-width: 800px) {
+  card-2 {
+    background-color: red;
+  }
+}
+
+@media (max-width: 500px) {
+  nav a {
+    font-size: 12px;
+  }
 }
