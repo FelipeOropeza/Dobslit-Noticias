@@ -26,3 +26,4 @@ Este site foi criado para a disciplina de Microinformática do curso de Análise
 
 - Giovani Sant'Ana Pedroso [Linkedin](https://br.linkedin.com/in/giovani-sant-ana) [Github](https://github.com/Giovani-SantAna-Pedroso)
 - Felipe Carvalho Coronado Oropeza [Linkedin](https://br.linkedin.com/in/felipeoropeza) [Github](https://github.com/FelipeOropeza)
+- Angelo R R Santos [Linkedin](https://www.linkedin.com/in/angelorrsantos/) [Github](https://github.com/angelorrsantos)
