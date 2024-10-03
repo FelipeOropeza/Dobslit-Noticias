@@ -27,3 +27,10 @@ main h1 {
 main p {
   text-align: justify;
 }
+@media (max-width: 800px) {
+  main {
+    width: 100vw;
+    padding: 20px;
+    padding-top: 20px;
+  }
+}
