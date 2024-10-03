@@ -27,14 +27,8 @@
 
 .hero a {
   text-decoration: none;
-  background-color: lightblue;
-  color: black;
-  padding: 10px;
-}
-.hero a {
-  text-decoration: none;
   background-color: var(--color-terciary);
-  color: white;
+  color: black;
   padding: 10px;
 }
 .hero a:hover {
