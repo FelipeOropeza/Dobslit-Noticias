@@ -5,6 +5,7 @@
 
 .hero img {
   /* border-radius: 5%; */
+  max-width: 80vw;
 }
 
 .hero div {
