@@ -31,3 +31,12 @@
 .reporters-card img {
   margin-bottom: 10px;
 }
+
+@media (max-width: 800px) {
+  .reporters-card {
+    width: 100%;
+  }
+  .reporters-card img {
+    width: 100%;
+  }
+}
